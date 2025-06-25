@@ -1,0 +1,13 @@
+{
+  "2025": {
+    "mazowieckie": {
+      "ferie_zimowe_start": "2025-01-20",
+      "ferie_zimowe_end": "2025-02-02",
+      "wakacje_letnie_start": "2025-06-22",
+      "wakacje_letnie_end": "2025-09-01"
+    },
+    "pomorskie": {
+      "...": "..."
+    }
+  }
+}
