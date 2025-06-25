@@ -1,13 +1,198 @@
 {
   "2025": {
-    "mazowieckie": {
+    "slaskie": {
       "ferie_zimowe_start": "2025-02-17",
-      "ferie_zimowe_end": "2025-02-02",
+      "ferie_zimowe_end": "2025-03-02",
       "wakacje_letnie_start": "2025-06-28",
       "wakacje_letnie_end": "2025-08-31"
     },
     "pomorskie": {
-      "...": "..."
+      "ferie_zimowe_start": "2025-02-17",
+      "ferie_zimowe_end": "2025-03-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "lubelskie": {
+      "ferie_zimowe_start": "2025-02-17",
+      "ferie_zimowe_end": "2025-03-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "lodzkie": {
+      "ferie_zimowe_start": "2025-02-17",
+      "ferie_zimowe_end": "2025-03-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "podkarpackie": {
+      "ferie_zimowe_start": "2025-02-17",
+      "ferie_zimowe_end": "2025-03-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "dolnoslaskie": {
+      "ferie_zimowe_start": "2025-02-03",
+      "ferie_zimowe_end": "2025-02-16",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "mazowieckie": {
+      "ferie_zimowe_start": "2025-02-03",
+      "ferie_zimowe_end": "2025-02-16",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "opolskie": {
+      "ferie_zimowe_start": "2025-02-03",
+      "ferie_zimowe_end": "2025-02-16",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "zachodniopomorskie": {
+      "ferie_zimowe_start": "2025-02-03",
+      "ferie_zimowe_end": "2025-02-16",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "kujawsko-pomorskie": {
+      "ferie_zimowe_start": "2025-01-20",
+      "ferie_zimowe_end": "2025-02-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "lubuskie": {
+      "ferie_zimowe_start": "2025-01-20",
+      "ferie_zimowe_end": "2025-02-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "malopolskie": {
+      "ferie_zimowe_start": "2025-01-20",
+      "ferie_zimowe_end": "2025-02-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "swietokrzyskie": {
+      "ferie_zimowe_start": "2025-01-20",
+      "ferie_zimowe_end": "2025-02-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "wielkopolskie": {
+      "ferie_zimowe_start": "2025-01-20",
+      "ferie_zimowe_end": "2025-02-02",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "podlaskie": {
+      "ferie_zimowe_start": "2025-01-27",
+      "ferie_zimowe_end": "2025-02-09",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    },
+    "warminsko-mazurskie": {
+      "ferie_zimowe_start": "2025-01-27",
+      "ferie_zimowe_end": "2025-02-09",
+      "wakacje_letnie_start": "2025-06-28",
+      "wakacje_letnie_end": "2025-08-31"
+    }
+  },
+  "2026": {
+    "mazowieckie": {
+      "ferie_zimowe_start": "2026-01-19",
+      "ferie_zimowe_end": "2026-02-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "pomorskie": {
+      "ferie_zimowe_start": "2026-01-19",
+      "ferie_zimowe_end": "2026-02-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "podlaskie": {
+      "ferie_zimowe_start": "2026-01-19",
+      "ferie_zimowe_end": "2026-02-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "swietokrzyskie": {
+      "ferie_zimowe_start": "2026-01-19",
+      "ferie_zimowe_end": "2026-02-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "warminsko-mazurskie": {
+      "ferie_zimowe_start": "2026-01-19",
+      "ferie_zimowe_end": "2026-02-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "dolnoslaskie": {
+      "ferie_zimowe_start": "2026-02-02",
+      "ferie_zimowe_end": "2026-02-15",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "kujawsko-pomorskie": {
+      "ferie_zimowe_start": "2026-02-02",
+      "ferie_zimowe_end": "2026-02-15",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "lodzkie": {
+      "ferie_zimowe_start": "2026-02-02",
+      "ferie_zimowe_end": "2026-02-15",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "zachodniopomorskie": {
+      "ferie_zimowe_start": "2026-02-02",
+      "ferie_zimowe_end": "2026-02-15",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "malopolskie": {
+      "ferie_zimowe_start": "2026-02-02",
+      "ferie_zimowe_end": "2026-02-15",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "opolskie": {
+      "ferie_zimowe_start": "2026-02-02",
+      "ferie_zimowe_end": "2026-02-15",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "podkarpackie": {
+      "ferie_zimowe_start": "2026-02-16",
+      "ferie_zimowe_end": "2026-03-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "lubelskie": {
+      "ferie_zimowe_start": "2026-02-16",
+      "ferie_zimowe_end": "2026-03-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "wielkopolskie": {
+      "ferie_zimowe_start": "2026-02-16",
+      "ferie_zimowe_end": "2026-03-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "lubuskie": {
+      "ferie_zimowe_start": "2026-02-16",
+      "ferie_zimowe_end": "2026-03-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
+    },
+    "slaskie": {
+      "ferie_zimowe_start": "2026-02-16",
+      "ferie_zimowe_end": "2026-03-01",
+      "wakacje_letnie_start": "2026-06-28",
+      "wakacje_letnie_end": "2026-08-31"
     }
   }
 }
